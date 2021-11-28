@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FOX LIFE
+http://iptv.csserv.co:8000/live/clientr725/631739/696.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",FOX LIFE FHD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/10307?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",MTV
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/10233?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO 2 HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/10326?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO Adria
+http://iptv.csserv.co:8000/live/clientr725/631739/814.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",HBO HD
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/10327?checkedby:iptvcat.com
